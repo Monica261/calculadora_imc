@@ -1,0 +1,14 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body{
+  font-family: 'IBM Plex Mono', sans-serif;
+}
+
+button{
+  cursor: pointer;
+}
+
